@@ -1,0 +1,11 @@
+id_generico,id_pratica,data_creazione,stato_pratica,note_pratica,id_cliente,id_generico_cliente,nome,cognome,codice_fiscale,note_cliente
+5,6725907842,"2018-05-17 16:50:00",close,"Ufficio grande",1,1,Mario,Rossi,MRSMRSK4321,"Una persona diffusa"
+4,1432870567,"2018-05-17 16:30:00",close,"Contratto Casa",2,2,Giovanni,Bianchi,GVNBNCH,Importante
+8,0009456321,"2018-05-17 18:10:00",open,"Contratto PC",2,2,Giovanni,Bianchi,GVNBNCH,Importante
+3,6321143243,"2018-05-17 16:20:00",open,Leasing,3,3,Massimo,Red,RDS1025,"Qualcosa da dire"
+7,8904534760,"2018-05-17 18:00:00",open,"Contratto moto",3,3,Massimo,Red,RDS1025,"Qualcosa da dire"
+2,5524531213,"2018-05-17 16:10:00",close,"Auto e moto",4,4,Giovanni,Gallo,GLSBRT,"Alcune note"
+10,6589034512,"2018-05-17 19:00:00",open,"Casa e lavoro",4,4,Giovanni,Gallo,GLSBRT,"Alcune note"
+1,1534563345,"2018-05-17 16:00:00",open,"Contratto casa e lavoro",5,5,Maria,Marino,MRNMRI,Cliente
+6,7854789012,"2018-05-17 17:59:00",open,Cellulare,5,5,Maria,Marino,MRNMRI,Cliente
+9,5489643123,"2018-05-17 18:30:00",close,"Internet e Telefono",5,5,Maria,Marino,MRNMRI,Cliente
